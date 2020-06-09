@@ -1,4 +1,4 @@
-# Coronavirus Dataset
+# COVID19 Dataset(Indian and International)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/jb1998)  &nbsp;&nbsp;
 
