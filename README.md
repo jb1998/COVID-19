@@ -2,6 +2,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/jb1998)  &nbsp;&nbsp;
 
+- Paper submitted for review
+
 ## Description 
 
 * The International Dataset of COVID19 with the name "COVID19_International_Dataset" is the original dataset file obtained from Kaggle.  
